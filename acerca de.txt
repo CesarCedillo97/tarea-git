@@ -1,6 +1,6 @@
-Nombre: 		Luis E. Jiménez
-Edad: 			23
+Nombre: 		Cesar Ulises
+Edad: 			20
 Nacionalidad: 		mexicano
-Originario de: 		Tijuana, Baja California
-Estudios:		Ing. en Computación
-Profesión:		Lead Project Manager
+Originario de: 		Mazatlán, Sianloa
+Estudios:		Ing. en Informática
+Profesión:		App developer
