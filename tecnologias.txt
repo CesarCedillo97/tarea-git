@@ -1,0 +1,5 @@
+git bash
+node js
+kotlin
+react native
+mongoDB
